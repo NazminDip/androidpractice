@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidThird2020</string>
+    <string name="buton_name">Login</string>
+    <string name="buton2_name">Logout</string>
+</resources>
